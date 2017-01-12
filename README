@@ -1,5 +1,5 @@
 ﻿#StarstuffSES is a procedural universe engine for space exploraton. It is designed to provide real world simulations of the forces that control our universe in order to create accurate video-game physics.
-The StarstuffSES engine is currently at version #0.4.5, therefor it is a beta release for the purpose of colaboration and is distriibuted with no warranties. Each version is released under the (CC BY 4.0) lisence along with a full copy of the source files. Starstuff is written in Python for 64bit computers and is currently being rendered on the Blender Game Engine(http://blender.org).
+The StarstuffSES engine is currently at version #0.4.5, therefor it is a beta release for the purpose of colaboration and is distriibuted with no warranties. Each version is released under the (CC BY 4.0) lisence along with a full copy of the source files. Starstuff is written in Python for 64bit computers and is currently being rendered real time on Blender v2.77a(http://blender.org).
 
 Starstuff is being developed for free and donations to our patreon page(http://patreon.com/scoriaGames) would greatly facilitate the development of this physics engine.
 
